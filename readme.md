@@ -15,3 +15,5 @@ open index.html
 2.move picture ,show big more picture
 
 3.selected options
+
+666
